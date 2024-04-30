@@ -25,15 +25,6 @@ Points: 10
 
 Punishment type: Ban
 
-* AirJump
-* Anti-KB
-* Auto Clicker
-* Fly
-* Jump
-* KillAura
-* Reach
-* Scaffold
-* Speed
 * Other
 
 ### Prohibited Addon/Mod
@@ -42,8 +33,6 @@ Points: 2
 
 Punishment type: Ban
 
-* Key Mapper
-* Player Tracer
 * Xray
 * Other
 
@@ -53,9 +42,6 @@ Points: 2
 
 Punishment type: Ban
 
-* Cross Teaming
-* Team Trolling/Killing
-* Teaming in Solo Mode
 
 ### Abusive Communication
 
